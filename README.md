@@ -15,7 +15,7 @@
 - [REST API](https://docs.daily.co/docs/create-and-manage-rooms-with-the-rest-api)
 - [Custom Interface](https://docs.daily.co/docs/build-a-custom-video-chat-interface)
 - [React Native](https://docs.daily.co/docs/make-a-mobile-first-application-with-react-native-daily-js)
-- Other tutorials are collected [here](https://docs.daily.co/docs/tutorials)!
+- Other tutorials are collected [here](https://www.daily.co/blog/tag/code-tutorials/)!
 
 ## Libraries
 - [`daily-js`](https://github.com/daily-co/daily-js)

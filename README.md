@@ -32,6 +32,7 @@
 - [Get to know Daily's prebuilt UI](https://www.daily.co/blog/prebuilt-ui/)
 - [Building a custom video chat app with React](https://www.daily.co/blog/building-a-custom-video-chat-app-with-react/)
 - [Add advanced security to video chats with the Daily API](https://www.daily.co/blog/add-advanced-security-features-to-video-chats-with-the-daily-api/)
+- [Using Daily's video chat API with Anvil](https://anvil.works/articles/daily-co-video-chat)
 
 Many more are available at [daily.co/blog](https://daily.co/blog)!
 

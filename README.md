@@ -39,7 +39,7 @@
 - [Daily's large meetings series](https://www.daily.co/blog/tag/large-meeting-series/) to improve browser and call performance
 - [Build a custom video call app with Vue and Daily](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/)
 - [Build a custom video call app with React Native and Daily](https://www.daily.co/blog/build-a-mobile-video-chat-app-with-dailys-react-native-javascript-library/)
-- [Build a Clubhouse-ish audio call app React Native and Daily](https://www.daily.co/blog/build-your-own-audio-only-clubhouse-clone-app-with-dailys-react-native-library/)
+- [Build a Clubhouse-ish audio call app with React Native and Daily](https://www.daily.co/blog/build-your-own-audio-only-clubhouse-clone-app-with-dailys-react-native-library/)
 - [Add advanced security to video chats with the Daily API](https://www.daily.co/blog/add-advanced-security-features-to-video-chats-with-the-daily-api/)
 - [Using Daily's video chat API with Anvil](https://anvil.works/articles/daily-co-video-chat)
 

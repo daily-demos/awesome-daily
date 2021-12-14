@@ -36,10 +36,24 @@
 
 - [Get to know Daily's prebuilt UI](https://www.daily.co/blog/prebuilt-ui/)
 - [Building a custom video chat app with React](https://www.daily.co/blog/building-a-custom-video-chat-app-with-react/)
+- [Daily's large meetings series](https://www.daily.co/blog/tag/large-meeting-series/) to improve browser and call performance
+- [Build a custom video call app with Vue and Daily](https://www.daily.co/blog/custom-video-chat-app-with-daily-and-vue/)
+- [Build a custom video call app with React Native and Daily](https://www.daily.co/blog/build-a-mobile-video-chat-app-with-dailys-react-native-javascript-library/)
+- [Build a Clubhouse-ish audio call app React Native and Daily](https://www.daily.co/blog/build-your-own-audio-only-clubhouse-clone-app-with-dailys-react-native-library/)
 - [Add advanced security to video chats with the Daily API](https://www.daily.co/blog/add-advanced-security-features-to-video-chats-with-the-daily-api/)
 - [Using Daily's video chat API with Anvil](https://anvil.works/articles/daily-co-video-chat)
 
 Many more are available at [daily.co/blog](https://daily.co/blog)!
+
+## Conference talks
+
+- [Video backgrounds are becoming blurry, but the future is clear](https://www.youtube.com/watch?v=zuif5r0NE7A) at CommCon 2021
+- [Pulling text out of a (mediasoup) hat](https://www.youtube.com/watch?v=Bz9lblIwfPE) at CommCon 2021
+- [Your state is my state and my state is your state](https://www.youtube.com/watch?v=pUpaPtIDOjc) at CommCon 2021
+- [The dark arts of debugging WebRTC calls](https://www.youtube.com/watch?v=t3GVVXflgSg) at CommCon 2021
+- [Developing a cross-platform WebRTC API using Rust and WebAssembly](https://www.youtube.com/watch?v=E_sTmp5W_dM&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7&index=2) at Kranky Geek WebRTC Fall 2021
+- [Building a dynamic, real-time Jamstack experience: "Synthless" Jams](https://www.youtube.com/watch?v=zP5ISItmqXk) at Jamstack Conf 2021
+- [And now presenting what no one asked for: How to live stream a laser disc](https://www.youtube.com/watch?v=DuYakl4uHMg) at Demuxed 2020
 
 ## Community Projects
 

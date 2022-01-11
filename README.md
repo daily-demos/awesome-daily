@@ -47,6 +47,7 @@ Many more are available at [daily.co/blog](https://daily.co/blog)!
 
 ## Conference talks
 
+- [What's your glitch?: An ode to datamoshing](https://www.youtube.com/watch?v=Qtia43DGSrY) at Demuxed 2021
 - [Video backgrounds are becoming blurry, but the future is clear](https://www.youtube.com/watch?v=zuif5r0NE7A) at CommCon 2021
 - [Pulling text out of a (mediasoup) hat](https://www.youtube.com/watch?v=Bz9lblIwfPE) at CommCon 2021
 - [Your state is my state and my state is your state](https://www.youtube.com/watch?v=pUpaPtIDOjc) at CommCon 2021

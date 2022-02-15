@@ -53,7 +53,7 @@ Many more are available at [daily.co/blog](https://daily.co/blog)!
 - [Your state is my state and my state is your state](https://www.youtube.com/watch?v=Q-XqEnScaf0) at CommCon 2021
 - [The dark arts of debugging WebRTC calls](https://www.youtube.com/watch?v=Otcv3ZqWkn4) at CommCon 2021
 - [Fireside chat with Daily on the future of WebRTC](https://www.youtube.com/watch?v=mzhIrwTWsCw) at CommCon 2021
-- [Developing a cross-platform WebRTC API using Rust and WebAssembly](https://www.youtube.com/watch?v=E_sTmp5W_dM&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7&index=2) at Kranky Geek WebRTC Fall 2021
+- [Developing a cross-platform WebRTC API using Rust and WebAssembly](https://www.youtube.com/watch?v=rjbxhv_U9tw) at Kranky Geek WebRTC Fall 2021
 - [Building a dynamic, real-time Jamstack experience: "Synthless" Jams](https://www.youtube.com/watch?v=zP5ISItmqXk) at Jamstack Conf 2021
 - [And now presenting what no one asked for: How to live stream a laser disc](https://www.youtube.com/watch?v=DuYakl4uHMg) at Demuxed 2020
 

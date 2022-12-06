@@ -15,8 +15,8 @@
 
 - [Prebuilt](https://docs.daily.co/guides/products/prebuilt)
 - [REST API](https://docs.daily.co/reference/rest-api)
-- [Custom Interface / call object](https://docs.daily.co/guides/products/call-object)
-- [Mobile / React Native](https://docs.daily.co/guides/products/mobile)
+- [Custom Interface / Client SDKs](https://docs.daily.co/guides/products/call-object)
+- [Mobile SDKs & React Native](https://docs.daily.co/guides/products/mobile)
 - [Audio only](https://docs.daily.co/guides/products/audio-only)
 - [Live streaming & recording](https://docs.daily.co/guides/products/live-streaming-recording)
 - Other tutorials are collected [here](https://www.daily.co/blog/tag/code-tutorials/)!

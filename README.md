@@ -1,6 +1,6 @@
 # Awesome Daily [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[Daily](https://daily.co) is the real-time [WebRTC](https://webrtc.org/) video and audio API for developers and this is a collection of awesome resources for it!
+[Daily](https://daily.co) is the real-time [WebRTC](https://webrtc.org/) video and audio API for developers, and this is a collection of awesome Daily resources!
 
 ## About Daily
 

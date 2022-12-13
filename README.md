@@ -31,6 +31,7 @@
 - [Prebuilt UI](https://github.com/daily-demos/prebuilt-ui)
 - [Call object React](https://github.com/daily-demos/call-object-react)
 - [React hooks using `daily-react`](https://github.com/daily-demos/custom-video-daily-react-hooks)
+- [Live streaming & recording](https://github.com/daily-demos/live-streaming-recording-demo/)
 - [Spatialization / virtual world](https://github.com/daily-demos/spatialization)
 - [Virtual class](https://github.com/daily-demos/virtual-class-demo)
 - [Social gaming](https://github.com/daily-demos/modern-wordfare)
